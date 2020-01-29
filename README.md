@@ -14,7 +14,7 @@ This repo is created to explain:
 
 4. Harish Thadka
 
-* BRANCHES:
+* **BRANCHES**:
 
   * A Branch in github represents another copy of the master branch(made at that point of time).
   * A Branch is used to work with different versions of a repository at a same time.
@@ -23,16 +23,17 @@ This repo is created to explain:
   * When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch these updates can be pulled in.  
 Source obtained from [here](https://www.w3schools.com/whatis/whatis_github.asp)
    
- * WORKFLOW:
+ * **WORKFLOW**:
   
     * Workflows are custom automated processes that you can set up in your repository to build, test, package, release, or deploy any project on GitHub.
     * With workflows you can automate your software development life cycle with a wide range of tools and services. 
     * You can create more than one workflow in a repository. You must store workflows in the .github/workflows directory in the root of your repository.
     * You can configure a workflow to start when a GitHub event occurs, on a schedule, or from an external event.
     * You need to configure workflows using YAML syntax, and save them as workflow files in your repository. Once you've successfully created a YAML workflow file and triggered the workflow, you will see the build logs, tests results, artifacts, and statuses for each step of your workflow.  
-Source obtained from [here](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#about-workflows)
+Source obtained from [here](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#about-workflows)  
+Use the [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) reference documentation to choose events to trigger an action, add actions, and customize your workflow.
 
-* Merge Conflicts:
+* **Merge Conflicts**:
 
     * The Merge pull request button is deactivated unyil you've resolved all conflicts between the compare branch and base branch.
     * Merge conflicts happen when you merge branches that have competing commis, and Git needs your help to decide which changes to incorporate in the final merge.
@@ -43,5 +44,5 @@ Source obtained from [here](https://help.github.com/en/actions/automating-your-w
 Source obtained from [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
 
-Use the [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) reference documentation to choose events to trigger an action, add actions, and customize your workflow.
+
 
