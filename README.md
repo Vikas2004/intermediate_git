@@ -1,7 +1,7 @@
 # intermediate_git
 This repository is created to explain about:  
-1. Branching
-1. Workflow 
+1. Branches
+1. Workflow
 1. Merge conflicts
 
 ## Group Members
