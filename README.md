@@ -24,6 +24,7 @@ This repository is created to explain about:
 Source obtained from [here](https://www.w3schools.com/whatis/whatis_github.asp)
 
 ![Branching image](https://www.endoflineblog.com/img/oneflow/feature-branch-rebase-and-merge-final.png)
+
 Image obtained from [here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.endoflineblog.com%2Fimg%2Foneflow%2Ffeature-branch-rebase-and-merge-final.png&imgrefurl=https%3A%2F%2Fwww.endoflineblog.com%2Foneflow-a-git-branching-model-and-workflow&docid=_jrO3QeUqnWcBM&tbnid=zLV2BgFsxkl8lM%3A&vet=10ahUKEwjJ1eDF1annAhVMKqwKHffFBkQQMwjLASg4MDg..i&w=580&h=479&bih=625&biw=1366&q=github%20branching%20model&ved=0ahUKEwjJ1eDF1annAhVMKqwKHffFBkQQMwjLASg4MDg&iact=mrc&uact=8)
    
  * **WORKFLOW**:
@@ -36,7 +37,7 @@ Image obtained from [here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fww
 Source obtained from [here](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#about-workflows)  
 Use the [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) reference documentation to choose events to trigger an action, add actions, and customize your workflow.
 
-![Workflow](https://www.endoflineblog.com/img/oneflow/feature-branch-rebase-and-merge-final.png)
+![Workflow](https://help.github.com/assets/images/help/repository/annotated-workflow.png)
 
 Image obtained from[Here](https://help.github.com/)
 
