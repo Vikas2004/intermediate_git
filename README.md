@@ -22,6 +22,8 @@ This repository is created to explain about:
   * New branches are generally created for bug fixes and feature work seperate from the master branch.
   * When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch these updates can be pulled in.  
 Source obtained from [here](https://www.w3schools.com/whatis/whatis_github.asp)
+![Branching image](git@github.com:Vikas2004/intermediate_git.git)
+Image obtained from [here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.endoflineblog.com%2Fimg%2Foneflow%2Ffeature-branch-rebase-and-merge-final.png&imgrefurl=https%3A%2F%2Fwww.endoflineblog.com%2Foneflow-a-git-branching-model-and-workflow&docid=_jrO3QeUqnWcBM&tbnid=zLV2BgFsxkl8lM%3A&vet=10ahUKEwjJ1eDF1annAhVMKqwKHffFBkQQMwjLASg4MDg..i&w=580&h=479&bih=625&biw=1366&q=github%20branching%20model&ved=0ahUKEwjJ1eDF1annAhVMKqwKHffFBkQQMwjLASg4MDg&iact=mrc&uact=8)
    
  * **WORKFLOW**:
   
