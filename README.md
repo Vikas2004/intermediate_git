@@ -29,7 +29,8 @@ This repo is created to explain:
     * You can configure a workflow to start when a GitHub event occurs, on a schedule, or from an external event.
     * You need to configure workflows using YAML syntax, and save them as workflow files in your repository. Once you've successfully created a YAML workflow file and triggered the workflow, you will see the build logs, tests results, artifacts, and statuses for each step of your workflow.
 
-*Merge Conflicts:  
+* Merge Conflicts:
+
     * The Merge pull request button is deactivated unyil you've resolved all conflicts between the compare branch and base branch.
     * Merge conflicts happen when you merge branches that have competing commis, and Git needs your help to decide which changes to incorporate in the final merge.
     * Git can often resolve differences between branches and merge them automatically.
