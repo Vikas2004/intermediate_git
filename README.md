@@ -6,7 +6,7 @@ This repo is created to explain:
 
 1. Krishna Sumanth Koyyalamudi
 
-2.
+2. Gopichand Bandarupalli
 
 3.
 
