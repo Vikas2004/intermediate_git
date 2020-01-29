@@ -51,6 +51,7 @@ Image obtained from[Here](https://help.github.com/)
     * The merge pull request button is deactivated until you've resolved all conflicts between the compare branch and base branch.  
 Source obtained from [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
+![Merge](https://github.blog/wp-content/uploads/2018/08/41858001-c7dab2dc-7866-11e8-9e4f-a9198e3e4443.png?fit=792%2C252)
 
 
 
