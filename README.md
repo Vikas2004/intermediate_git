@@ -35,6 +35,12 @@ Image obtained from [here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fww
 Source obtained from [here](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/configuring-a-workflow#about-workflows)  
 Use the [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions) reference documentation to choose events to trigger an action, add actions, and customize your workflow.
 
+![Workflow](https://www.endoflineblog.com/img/oneflow/feature-branch-rebase-and-merge-final.png)
+
+Image obtained from[Here](https://help.github.com/)
+
+
+
 * **Merge Conflicts**:
 
     * The Merge pull request button is deactivated unyil you've resolved all conflicts between the compare branch and base branch.
