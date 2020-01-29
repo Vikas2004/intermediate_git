@@ -35,6 +35,10 @@ Use the [Workflow syntax for GitHub Actions](https://help.github.com/en/actions/
 
 ![Workflow](https://www.endoflineblog.com/img/oneflow/feature-branch-rebase-and-merge-final.png)
 
+Image obtained from[Here](https://help.github.com/)
+
+
+
 * **Merge Conflicts**:
 
     * The Merge pull request button is deactivated unyil you've resolved all conflicts between the compare branch and base branch.
