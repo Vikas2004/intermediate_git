@@ -18,7 +18,7 @@ This repo is created to explain:
   * A Branch is used to work with different versions of a repository at a same time.
   * By default a repository has a master branch otherwise called as production branch.
   * New branches are generally created for bug fixes and feature work seperate from the master branch.
-  * When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch these updates can be pulled in.
+  * When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch these updates can be pulled in.  
 Source obtained from [here](https://www.w3schools.com/whatis/whatis_github.asp)
    
  * WORKFLOW:
@@ -37,7 +37,7 @@ Source obtained from [here](https://help.github.com/en/actions/automating-your-w
     * Git can often resolve differences between branches and merge them automatically.
     * Often, merge conflicts happen when people make different changes to the same line of the same file, or when one person edits a file and another person deletes the same file.
     * You can view a list of the files with conflicting changes above the Merge Pull request button.
-    * The merge pull request button is deactivated until you've resolved all conflicts between the compare branch and base branch.
+    * The merge pull request button is deactivated until you've resolved all conflicts between the compare branch and base branch.  
 Source obtained from [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-merge-conflicts)
 
 
