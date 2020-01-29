@@ -21,8 +21,8 @@ This repo is created to explain:
   * When changes are ready, they can be merged into the master branch. If you make changes to the master branch while working on a new branch these updates can be pulled in.
   Source obtained from [here](https://www.w3schools.com/whatis/whatis_github.asp)
   
-  
-  * WORKFLOW:
+   
+ * WORKFLOW:
   
     * Workflows are custom automated processes that you can set up in your repository to build, test, package, release, or deploy any project on GitHub.
     * With workflows you can automate your software development life cycle with a wide range of tools and services. 
