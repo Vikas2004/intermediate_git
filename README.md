@@ -1,5 +1,3 @@
 # intermediate_git
-This repo is created to explain about:
-* Branching
-* Workflow
-* Merge conflicts
+This repo is created to explain:
+*Branching, workflow, Merge conflicts
