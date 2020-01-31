@@ -29,7 +29,7 @@ Image obtained from [here](https://www.google.com/imgres?imgurl=https%3A%2F%2Fww
    
  * **WORKFLOW**:
   
-    * Workflows are custom automated processes that you can set up in your repository to build, test, package, release, or deploy any project on GitHub.
+    * Workflows are custom automated processes that you can set up in your repository to build, test, package, release, or deploy any project on GitHub. 
     * With workflows you can automate your software development life cycle with a wide range of tools and services. 
     * You can create more than one workflow in a repository. You must store workflows in the .github/workflows directory in the root of your repository.
     * You can configure a workflow to start when a GitHub event occurs, on a schedule, or from an external event.
