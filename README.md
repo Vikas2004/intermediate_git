@@ -62,4 +62,6 @@ Image obtained from [here](https://github.blog/2018-08-22-merge-conflicts-in-the
 * [harish24680](https://github.com/harish24680?tab=repositories)
 * [chanduhvg](https://github.com/chanduhvg)
 * [Krishna-Koyyalamudi](https://github.com/Krishna-Koyyalamudi)
+# Team Slide
+![](team_slide.jpg)
 
