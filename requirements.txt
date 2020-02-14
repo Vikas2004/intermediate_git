@@ -1,0 +1,6 @@
+The following are necessary for this session:
+1. Developer mode on the systems
+2. Github account
+3. Install git
+4. Tortoise git
+5. Putty
